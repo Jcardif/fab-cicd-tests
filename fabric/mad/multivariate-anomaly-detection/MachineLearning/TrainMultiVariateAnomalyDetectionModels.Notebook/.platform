@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "TrainMultiVariateAnomalyDetectionModels",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "204cc78e-bd3b-ae4f-41e3-64615c9bdb3a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "MultivariateAnomalyDetectionEH",
+    "description": "MultivariateAnomalyDetectionEH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "98bb5e5e-c146-863f-42bd-ac4de6a26c4c"
+  }
+}
