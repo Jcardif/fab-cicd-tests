@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDashboard",
+    "displayName": "ScadaTelemetryAnomalies",
+    "description": "ScadaTelemetryAnomalies"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bcbd4246-4c5e-9c62-4684-a4f1149c31c0"
+  }
+}
