@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "TimeSeriesMultivariateAnomalyAnalysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a933a450-042e-b72e-42ba-0e4c907b198b"
+  }
+}
