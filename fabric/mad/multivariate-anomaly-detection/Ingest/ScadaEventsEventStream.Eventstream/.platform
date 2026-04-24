@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventstream",
+    "displayName": "ScadaEventsEventStream",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f8ced0a2-f1b1-b54a-4010-866fbb058535"
+  }
+}
