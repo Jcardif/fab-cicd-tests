@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDatabase",
+    "displayName": "BankingLoanFraud",
+    "description": "BankingLoanFraud"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5d00fccd-6d74-a4dd-4f1d-6fcdde14d3e1"
+  }
+}
