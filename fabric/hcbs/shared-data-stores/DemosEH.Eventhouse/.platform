@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "DemosEH",
+    "description": "HealthcareBillingSystem"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c33e379a-ccf2-9a2a-4db5-37999b412a03"
+  }
+}
